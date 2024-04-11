@@ -1,5 +1,6 @@
 # Smart Traffic Light
 
+## Overview
 This project aims to develop a smart traffic light system that incorporates a dataset for detecting people in wheelchairs. Additionally, we implement the logic in ROS to demonstrate how the traffic light would function.
 
 ## Wheelchair Detection
